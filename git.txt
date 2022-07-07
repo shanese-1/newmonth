@@ -1,4 +1,14 @@
+shanese
+adding to drew and shanice code 
+=======
+monica changes
+
+>>>>>>> 0f355f74f69f52d63159a6732eab437d6d3667d2
 making my first push
+<<<<<<< HEAD
 shanese's second saving to git
 shanese's solo git
 
+=======
+adding new text from drew
+>>>>>>> c26ec71727a74d3b4ef851188575183bf8350dd6
