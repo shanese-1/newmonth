@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 adding to drew and shanice code 
+=======
+monica changes
+
+>>>>>>> 0f355f74f69f52d63159a6732eab437d6d3667d2
 making my first push
 adding new text from drew
